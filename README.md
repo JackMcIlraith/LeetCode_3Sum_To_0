@@ -2,6 +2,6 @@ Success
 
 Details
 
-Runtime: 20 ms, faster than 75.63% of Java online submissions for 3Sum.
+Runtime: 19 ms, faster than 83.88% of Java online submissions for 3Sum.
 
-Memory Usage: 43 MB, less than 67.77% of Java online submissions for 3Sum.
+Memory Usage: 42.9 MB, less than 79.17% of Java online submissions for 3Sum.
